@@ -5,3 +5,7 @@
 library(tidyverse)
 library(lubridate)
 ```
+
+## データ加工
+
+最初に北海道電力。
