@@ -341,13 +341,13 @@ r_volume_fiscalyear
 r_volume_month
 ```
 
-![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_rate.jpg)
+![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_rate.png)
 
-![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_volume_year.jpg)
+![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_volume_year.png)
 
-![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_volume_fiscalyear.jpg)
+![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_volume_fiscalyear.png)
 
-![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_volume_month.jpg)
+![](https://github.com/ryomakom/renewable_energy/blob/main/images/r_volume_month.png)
 
 ## 同僚にわたすcsvファイル作り
 
