@@ -3,9 +3,7 @@
 
 朝日新聞は2024年2月10日朝刊で、再生可能エネルギー、つまり太陽光と風力の発電量を意図的に減らしているケース（これを「出力制御」というらしい）が2023年に急増していることを報じた。
 
-![]([https://github.com/ryomakom/renewable_energy/images/紙面写真.jpg)]
-
-(https://github.com/ryomakom/renewable_energy/blob/main/images/%E7%B4%99%E9%9D%A2%E5%86%99%E7%9C%9F.jpg))
+![](https://github.com/ryomakom/renewable_energy/blob/main/images/%E7%B4%99%E9%9D%A2%E5%86%99%E7%9C%9F.jpg))
 
 デジタル版は[こちら](https://digital.asahi.com/articles/ASS296K84S10TIPE026.html)。電力各社が公表しているデータをどう加工して集計したかを、以下で説明する。
 
